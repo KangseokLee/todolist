@@ -1,0 +1,1 @@
+module.exports = { url: 'mongodb://root:root@localhost:27017/admin?gssapiServiceName=mongodb&authSource=admin' };
